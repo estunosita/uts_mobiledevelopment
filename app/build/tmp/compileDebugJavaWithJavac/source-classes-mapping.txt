@@ -1,0 +1,2 @@
+com/estu/catatanpenjualan/BuildConfig.java
+ com.estu.catatanpenjualan.BuildConfig
